@@ -75,11 +75,16 @@ psql -U <username> -d <databasename> -f queries.sql
 
 ## 👥 Authors <a name="author"></a>
 
-👤 Shayan
+👤 **Shayan**
 
 - GitHub: [@githubhandle](https://github.com/shayan1234554321)
 - Twitter: [@twitterhandle](https://twitter.com/shayan123455432)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/shayan-khan20/)
+
+👤 **Alejandro**
+- GitHub: [Alejandro](https://github.com/Alejandro-Bernal-M)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alejandro-bernal-marin)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
